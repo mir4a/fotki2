@@ -1,0 +1,2233 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app" xmlns:f="yandex:fotki">
+    <id>urn:yandex:fotki:aig1001:albums</id>
+    <author>
+        <name>aig1001</name>
+        <f:uid>28797441</f:uid>
+    </author>
+    <title>aig1001 на Яндекс.Фотках</title>
+    <updated>2013-03-31T23:02:53Z</updated>
+    <link href="http://api-fotki.yandex.ru/api/users/aig1001/albums/" rel="self"/>
+    <link href="http://fotki.yandex.ru/users/aig1001/albums/" rel="alternate"/>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:62686</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Жизнь собачья</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/62686/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/62686/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/62686/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/60020/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/23/aig1001.9/0_ea74_4715f082_XXS" size="XXS"
+               width="75"/>
+        <f:img height="98" href="http://img-fotki.yandex.ru/get/23/aig1001.9/0_ea74_4715f082_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/62686/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/62686/" rel="alternate"/>
+        <published>2008-12-21T23:42:11Z</published>
+        <app:edited>2013-03-31T23:02:53Z</app:edited>
+        <updated>2013-03-31T23:02:53Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="169"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:63684</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Кошкин дом</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/63684/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/63684/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/63684/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/539416/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/1/28797441.4c/0_83b18_8665418_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/1/28797441.4c/0_83b18_8665418_S" size="S" width="114"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/63684/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/63684/" rel="alternate"/>
+        <published>2009-01-16T18:35:36Z</published>
+        <app:edited>2013-03-30T11:25:26Z</app:edited>
+        <updated>2013-03-30T11:25:26Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="318"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:96137</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>ЖАНР</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/322176/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5402/aig1001.38/0_4ea80_82e96b96_XXS" size="XXS"
+               width="75"/>
+        <f:img height="101" href="http://img-fotki.yandex.ru/get/5402/aig1001.38/0_4ea80_82e96b96_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/96137/" rel="alternate"/>
+        <published>2010-04-18T09:58:17Z</published>
+        <app:edited>2013-03-28T22:37:44Z</app:edited>
+        <updated>2013-03-28T22:37:44Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="0"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:77548</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Ах, эта женщина!...</title>
+        <summary>Эта женщина! Увижу и немею. Потому-то, понимаешь, не гляжу. Ах, ни кукушкам, ни ромашкам я не верю, и к
+            цыганкам, понимаешь, не хожу. Набормочут: "Не люби ее такую!" Напророчат: "До рассвета заживет!" Ах,
+            наколдуют, нагадают, накукуют... А она на нашей улице живет! Булат Окуджава
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77548/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77548/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77548/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/212107/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3701/aig1001.24/0_33c8b_9cffca1f_XXS" size="XXS"
+               width="75"/>
+        <f:img height="99" href="http://img-fotki.yandex.ru/get/3701/aig1001.24/0_33c8b_9cffca1f_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77548/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/77548/" rel="alternate"/>
+        <published>2009-09-30T07:41:50Z</published>
+        <app:edited>2013-03-28T22:37:44Z</app:edited>
+        <updated>2013-03-28T22:37:44Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="65"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:109967</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>КАЖДАЯ ПОГОДА БЛАГОДАТЬ</title>
+        <summary>А нам всегда чего-то не хватает: Зимою - лета, зимою - лета, Зимою - лета, осенью - весны.</summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109967/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109967/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109967/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/131776/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3207/aig1001.13/0_202c0_f8cf305b_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/3207/aig1001.13/0_202c0_f8cf305b_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109967/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/109967/" rel="alternate"/>
+        <published>2011-02-05T00:38:20Z</published>
+        <app:edited>2013-03-28T21:59:44Z</app:edited>
+        <updated>2013-03-28T21:59:44Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="0"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:63750</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>У природы нет плохой погоды...</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/63750/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/63750/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/63750/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/157009/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/2711/aig1001.1a/0_26551_d0c9ae9_XXS" size="XXS"
+               width="75"/>
+        <f:img height="116" href="http://img-fotki.yandex.ru/get/2711/aig1001.1a/0_26551_d0c9ae9_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/63750/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/63750/" rel="alternate"/>
+        <published>2009-01-18T12:58:14Z</published>
+        <app:edited>2013-03-28T21:59:44Z</app:edited>
+        <updated>2013-03-28T21:59:44Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="109"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109967/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:104439</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Помилуй, Боже, стариков....</title>
+        <summary>Помилуй, Боже, стариков... Вероника Долина Помилуй, Боже, стариков, Их головы и руки! Мне слышен стук
+            их башмаков На мостовых разлуки. Помилуй, Боже, стариков, Их шавок, Васек, мосек... Пучок петрушки, и
+            морковь, И дырочки авосек. Прости им злые языки И слабые сосуды, И звук разбитой на куски Фарфоровой посуды.
+            И пожелтевшие листки Забытого романа, И золотые корешки Мюссе и Мопассана. Ветхи, как сами старики, Немодны
+            их одежды. Их каблуки, их парики - Как признаки надежды. На них не ляжет пыль веков, Они не из таковских.
+            Помилуй, Боже, стариков! Помилуй, Боже, стариков... Особенно - московских.
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/104439/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/104439/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/104439/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/173331/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3014/aig1001.1d/0_2a513_381db4f3_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3014/aig1001.1d/0_2a513_381db4f3_S" size="S"
+               width="110"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/104439/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/104439/" rel="alternate"/>
+        <published>2010-12-06T22:26:46Z</published>
+        <app:edited>2013-03-27T19:37:01Z</app:edited>
+        <updated>2013-03-27T19:37:01Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="160"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:100451</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Азовское море. Пейзаж</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100451/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100451/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100451/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/184134/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3605/aig1001.1f/0_2cf46_290c177d_XXS" size="XXS"
+               width="75"/>
+        <f:img height="100" href="http://img-fotki.yandex.ru/get/3605/aig1001.1f/0_2cf46_290c177d_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100451/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/100451/" rel="alternate"/>
+        <published>2010-08-10T20:27:53Z</published>
+        <app:edited>2013-03-20T19:44:11Z</app:edited>
+        <updated>2013-03-20T19:44:11Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="171"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:96136</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>ПРИАЗОВЬЕ</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/138295/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3007/aig1001.15/0_21c37_8cc1145c_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/3007/aig1001.15/0_21c37_8cc1145c_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/96136/" rel="alternate"/>
+        <published>2010-04-18T09:56:43Z</published>
+        <app:edited>2013-03-20T19:44:11Z</app:edited>
+        <updated>2013-03-20T19:44:11Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="0"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:109961</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Лошади</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109961/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109961/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109961/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/226086/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3901/aig1001.27/0_37326_8fd065f_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3901/aig1001.27/0_37326_8fd065f_S" size="S"
+               width="147"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109961/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/109961/" rel="alternate"/>
+        <published>2011-02-04T22:45:01Z</published>
+        <app:edited>2013-03-18T22:44:34Z</app:edited>
+        <updated>2013-03-18T22:44:34Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="54"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:144063</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Пермь</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/144063/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/144063/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/144063/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/723522/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/6429/28797441.56/0_b0a42_f6307b09_XXS" size="XXS"
+               width="75"/>
+        <f:img height="99" href="http://img-fotki.yandex.ru/get/6429/28797441.56/0_b0a42_f6307b09_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/144063/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/144063/" rel="alternate"/>
+        <published>2013-03-04T22:18:59Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="18"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:139999</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>СУЗДАЛЬ</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/139999/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/139999/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/139999/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/688563/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/6520/28797441.52/0_a81b3_3c3773ff_XXS" size="XXS"
+               width="75"/>
+        <f:img height="96" href="http://img-fotki.yandex.ru/get/6520/28797441.52/0_a81b3_3c3773ff_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/139999/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/139999/" rel="alternate"/>
+        <published>2012-10-10T20:21:26Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="9"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:138665</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>За туманом...</title>
+        <summary>Говоришь, чтоб остался я, чтоб вовек не скитался я, Чтоб восходы с закатами наблюдал из окна. А мне б
+            дороги далекие, да маршруты нелегкие, Да и песня в дороге той, словно воздух нужна. Чтобы жить километрами,
+            а не квадратными метрами, Холод, дождь, мошкара, жара - не такой уж пустяк! И чтоб устать от усталости, а не
+            от собственной старости И грустить об оставшшихся, о себе не грустя.... (Ю. Кукин)
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/138665/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/138665/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/138665/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/680624/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/6406/28797441.52/0_a62b0_29097fa2_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/6406/28797441.52/0_a62b0_29097fa2_S" size="S"
+               width="110"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/138665/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/138665/" rel="alternate"/>
+        <published>2012-09-08T06:15:15Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="32"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:134808</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Псковщина</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/134808/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/134808/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/134808/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/151611/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3001/aig1001.18/0_2503b_d4bf9d3c_XXS" size="XXS"
+               width="75"/>
+        <f:img height="101" href="http://img-fotki.yandex.ru/get/3001/aig1001.18/0_2503b_d4bf9d3c_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/134808/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/134808/" rel="alternate"/>
+        <published>2012-05-20T18:58:49Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="148"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:134807</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Другие места</title>
+        <summary>Как нас дома ни грей, Не хватает всегда Новых встреч нам и новых друзей...</summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/134807/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/134807/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/134807/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/44331/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/12/aig1001.3/0_ad2b_9b74a771_XXS" size="XXS"
+               width="75"/>
+        <f:img height="100" href="http://img-fotki.yandex.ru/get/12/aig1001.3/0_ad2b_9b74a771_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/134807/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/134807/" rel="alternate"/>
+        <published>2012-05-20T18:41:25Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="11"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:126274</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Покрова на Дону. 2011г.</title>
+        <summary>Зайчик солнечный за околицей Заблестит в зазеркалье клинков, И в станицах донских помолятся За походных
+            своих казаков. И споют о земле своей вольной, Все на ней возрождается снова Покрова – праздник
+            первопрестольный Всевеликого войска донского... (К.Ундров)
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/126274/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/126274/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/126274/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/498594/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5816/28797441.4a/0_79ba2_e996dee5_XXS" size="XXS"
+               width="75"/>
+        <f:img height="143" href="http://img-fotki.yandex.ru/get/5816/28797441.4a/0_79ba2_e996dee5_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/126274/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/126274/" rel="alternate"/>
+        <published>2011-10-15T07:30:25Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="25"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:125074</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Азов</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/125074/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/125074/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/125074/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/483014/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4518/28797441.48/0_75ec6_6731463d_XXS" size="XXS"
+               width="75"/>
+        <f:img height="102" href="http://img-fotki.yandex.ru/get/4518/28797441.48/0_75ec6_6731463d_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/125074/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/125074/" rel="alternate"/>
+        <published>2011-09-12T18:32:25Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="12"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:124448</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Смоленск</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/124448/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/124448/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/124448/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/478888/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5307/28797441.48/0_74ea8_e86ba5e_XXS" size="XXS"
+               width="75"/>
+        <f:img height="98" href="http://img-fotki.yandex.ru/get/5307/28797441.48/0_74ea8_e86ba5e_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/124448/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/124448/" rel="alternate"/>
+        <published>2011-08-27T19:15:24Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="26"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:119529</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Памятники Таганрога</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/119529/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/119529/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/119529/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/56295/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/22/aig1001.8/0_dbe7_61fbfad5_XXS" size="XXS"
+               width="75"/>
+        <f:img height="148" href="http://img-fotki.yandex.ru/get/22/aig1001.8/0_dbe7_61fbfad5_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/119529/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/119529/" rel="alternate"/>
+        <published>2011-05-02T08:52:34Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="49"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:104212</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Конкурс: "Я БЕГУ"</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/104212/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/104212/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/104212/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/265766/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3910/aig1001.2d/0_40e26_bcfe6659_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3910/aig1001.2d/0_40e26_bcfe6659_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/104212/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/104212/" rel="alternate"/>
+        <published>2010-11-25T22:04:02Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="6"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:103734</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Конкурс ПО КОНЯМ</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/103734/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/103734/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/103734/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/353287/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5404/aig1001.3d/0_56407_5310d4d8_XXS" size="XXS"
+               width="75"/>
+        <f:img height="101" href="http://img-fotki.yandex.ru/get/5404/aig1001.3d/0_56407_5310d4d8_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/103734/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/103734/" rel="alternate"/>
+        <published>2010-11-11T02:02:54Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="2"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:103649</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Служивые</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/103649/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/103649/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/103649/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/352153/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5700/aig1001.3c/0_55f99_201092a0_XXS" size="XXS"
+               width="75"/>
+        <f:img height="100" href="http://img-fotki.yandex.ru/get/5700/aig1001.3c/0_55f99_201092a0_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/103649/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/103649/" rel="alternate"/>
+        <published>2010-11-09T04:46:49Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="62"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:102773</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>"Осень, она не спросит..."</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102773/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102773/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102773/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/347135/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4701/aig1001.3b/0_54bff_eaf4a36f_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/4701/aig1001.3b/0_54bff_eaf4a36f_S" size="S"
+               width="100"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102773/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/102773/" rel="alternate"/>
+        <published>2010-10-17T21:31:46Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="40"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109967/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:102684</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Казачьему роду - нет переводу!</title>
+        <summary>Альбом посвящён празднованию 20-й годовщине начала возрождения казачества на Дону</summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102684/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102684/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102684/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/346828/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4506/aig1001.3b/0_54acc_25c4ecf2_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/4506/aig1001.3b/0_54acc_25c4ecf2_S" size="S"
+               width="109"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102684/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/102684/" rel="alternate"/>
+        <published>2010-10-15T07:56:44Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="66"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:102218</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>ДЕТСКИЙ альбом</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102218/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102218/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102218/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/343483/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5203/aig1001.3b/0_53dbb_3359a4da_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/5203/aig1001.3b/0_53dbb_3359a4da_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/102218/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/102218/" rel="alternate"/>
+        <published>2010-10-02T06:48:25Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="40"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:101805</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Ростов - папа</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/101805/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/101805/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/101805/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/341334/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5200/aig1001.3a/0_53556_d9c2c0a5_XXS" size="XXS"
+               width="75"/>
+        <f:img height="114" href="http://img-fotki.yandex.ru/get/5200/aig1001.3a/0_53556_d9c2c0a5_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/101805/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/101805/" rel="alternate"/>
+        <published>2010-09-21T21:53:11Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="32"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:100614</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Конкурс "ОТДАТЬ ШВАРТОВЫ"</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100614/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100614/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100614/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/328465/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5104/aig1001.38/0_50311_1ccc7a89_XXS" size="XXS"
+               width="75"/>
+        <f:img height="79" href="http://img-fotki.yandex.ru/get/5104/aig1001.38/0_50311_1ccc7a89_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100614/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/100614/" rel="alternate"/>
+        <published>2010-08-17T23:52:06Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="2"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:100608</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Новороссийск</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100608/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100608/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100608/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/328421/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5406/aig1001.38/0_502e5_a6d852cc_XXS" size="XXS"
+               width="75"/>
+        <f:img height="102" href="http://img-fotki.yandex.ru/get/5406/aig1001.38/0_502e5_a6d852cc_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/100608/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/100608/" rel="alternate"/>
+        <published>2010-08-17T19:18:25Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="15"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:98922</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Конкурс "Деревенская жизнь"</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/98922/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/98922/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/98922/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/306782/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4204/aig1001.35/0_4ae5e_ac27ac75_XXS" size="XXS"
+               width="75"/>
+        <f:img height="97" href="http://img-fotki.yandex.ru/get/4204/aig1001.35/0_4ae5e_ac27ac75_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/98922/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/98922/" rel="alternate"/>
+        <published>2010-06-24T18:47:54Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="5"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:98085</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Конкурс САМОЕ ВРЕМЯ</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/98085/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/98085/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/98085/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/298736/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4303/aig1001.34/0_48ef0_85cc8651_XXS" size="XXS"
+               width="75"/>
+        <f:img height="146" href="http://img-fotki.yandex.ru/get/4303/aig1001.34/0_48ef0_85cc8651_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/98085/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/98085/" rel="alternate"/>
+        <published>2010-06-02T20:14:29Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="4"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:96841</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Автопробег</title>
+        <summary>Казаки Таганрогского казачьего округа, 6.05.2010г. совершили автопробег на Украину, для участия в
+            совместных мероприятиях на мемориальном комплексе "Саур-могила", посвященных 65-й годовщины Победы в ВОВ.
+            Этому событию и посвящен этот альбом...
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96841/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96841/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96841/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/286603/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4212/aig1001.33/0_45f8b_97d406e4_XXS" size="XXS"
+               width="75"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4212/aig1001.33/0_45f8b_97d406e4_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96841/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/96841/" rel="alternate"/>
+        <published>2010-05-06T20:19:18Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="32"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:96756</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>" В городском саду играет духовой оркестр..."</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96756/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96756/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96756/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/286135/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/2914/aig1001.33/0_45db7_e62734d7_XXS" size="XXS"
+               width="75"/>
+        <f:img height="121" href="http://img-fotki.yandex.ru/get/2914/aig1001.33/0_45db7_e62734d7_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96756/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/96756/" rel="alternate"/>
+        <published>2010-05-04T18:35:23Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="19"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:96753</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Конкурс УСЫ и БОРОДА</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96753/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96753/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96753/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/157803/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3108/aig1001.1a/0_2686b_60b0e891_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3108/aig1001.1a/0_2686b_60b0e891_S" size="S"
+               width="100"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96753/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/96753/" rel="alternate"/>
+        <published>2010-05-04T18:17:47Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="3"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:96265</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>СТАРОЕ ФОТО</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96265/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96265/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96265/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/57627/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/24/aig1001.8/0_e11b_3d392b14_XXS" size="XXS"
+               width="75"/>
+        <f:img height="124" href="http://img-fotki.yandex.ru/get/24/aig1001.8/0_e11b_3d392b14_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96265/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/96265/" rel="alternate"/>
+        <published>2010-04-21T07:15:45Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="0"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:96141</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>"Россия, Родина моя..."</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/241402/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4101/aig1001.2a/0_3aefa_528a22c8_XXS" size="XXS"
+               width="75"/>
+        <f:img height="91" href="http://img-fotki.yandex.ru/get/4101/aig1001.2a/0_3aefa_528a22c8_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/96141/" rel="alternate"/>
+        <published>2010-04-18T10:39:03Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="0"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:96140</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Когда уйдешь со школьного двора....</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96140/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96140/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96140/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/281857/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/13/aig1001.31/0_44d01_cc871fc7_XXS" size="XXS"
+               width="75"/>
+        <f:img height="84" href="http://img-fotki.yandex.ru/get/13/aig1001.31/0_44d01_cc871fc7_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96140/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/96140/" rel="alternate"/>
+        <published>2010-04-18T10:23:07Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="0"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:95930</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>"Москва... как много в этом звуке..."</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95930/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95930/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95930/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/34536/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/10/aig1001.0/0_86e8_66b250e3_-1-XXS" size="XXS"
+               width="75"/>
+        <f:img height="103" href="http://img-fotki.yandex.ru/get/10/aig1001.0/0_86e8_66b250e3_-1-S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95930/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/95930/" rel="alternate"/>
+        <published>2010-04-12T22:05:46Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="0"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:95929</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Былое нельзя воротить, и печалиться нечему...</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95929/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95929/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95929/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/40116/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/13/aig1001.2/0_9cb4_3086972a_XXS" size="XXS"
+               width="75"/>
+        <f:img height="79" href="http://img-fotki.yandex.ru/get/13/aig1001.2/0_9cb4_3086972a_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95929/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/95929/" rel="alternate"/>
+        <published>2010-04-12T21:55:35Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="0"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:95928</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>КОНКУРСНЫЕ</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/328465/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5104/aig1001.38/0_50311_1ccc7a89_XXS" size="XXS"
+               width="75"/>
+        <f:img height="79" href="http://img-fotki.yandex.ru/get/5104/aig1001.38/0_50311_1ccc7a89_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/95928/" rel="alternate"/>
+        <published>2010-04-12T21:39:44Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="0"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:95689</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Конкурс КУКЛЫ</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95689/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95689/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95689/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/169229/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3210/aig1001.1b/0_2950d_5e5ce107_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3210/aig1001.1b/0_2950d_5e5ce107_S" size="S"
+               width="130"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95689/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/95689/" rel="alternate"/>
+        <published>2010-04-07T10:37:00Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="5"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:95025</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Конкурс "МНОЖЕСТВО в кадре"</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95025/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95025/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95025/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/275150/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3807/aig1001.30/0_432ce_8e494095_XXS" size="XXS"
+               width="75"/>
+        <f:img height="100" href="http://img-fotki.yandex.ru/get/3807/aig1001.30/0_432ce_8e494095_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95025/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/95025/" rel="alternate"/>
+        <published>2010-03-18T00:28:55Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="2"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:94868</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>КАЗАКИ</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/126106/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3007/aig1001.12/0_1ec9a_cd877386_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3007/aig1001.12/0_1ec9a_cd877386_S" size="S"
+               width="113"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/94868/" rel="alternate"/>
+        <published>2010-03-14T08:47:57Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="0"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:94827</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Пыль веков</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94827/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94827/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94827/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/272979/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3811/aig1001.30/0_42a53_abb2112d_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/3811/aig1001.30/0_42a53_abb2112d_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94827/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/94827/" rel="alternate"/>
+        <published>2010-03-12T20:26:04Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="12"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95929/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:93940</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Казачья символика</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/93940/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/93940/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/93940/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/270484/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3910/aig1001.2f/0_42094_6242e20a_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3910/aig1001.2f/0_42094_6242e20a_S" size="S"
+               width="118"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/93940/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/93940/" rel="alternate"/>
+        <published>2010-02-28T09:37:02Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="21"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:93506</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>День Защитника Отечества в Новоазовске</title>
+        <summary>Делегация казаков Таганрогского казачьего округа Всевеликого Войска Донского, побывала на празднике Дня
+            защитника Отечества и Дня станицы у побратимов, казаков станицы Новониколаевская г.Новоазовска Украины.
+            Небольшой репортаж с праздника я и предлагаю вашему вниманию. О современной казачьей символике можно
+            глянуть: http://www.heraldicum.ru/russia/cosackos.htm
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/93506/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/93506/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/93506/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/269953/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3813/aig1001.2f/0_41e81_148f43b3_XXS" size="XXS"
+               width="75"/>
+        <f:img height="100" href="http://img-fotki.yandex.ru/get/3813/aig1001.2f/0_41e81_148f43b3_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/93506/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/93506/" rel="alternate"/>
+        <published>2010-02-21T20:46:22Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="16"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:92667</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>ФОТОГРАФЫ в кадре</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/92667/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/92667/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/92667/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/266017/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4007/aig1001.2e/0_40f21_b0b4267_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/4007/aig1001.2e/0_40f21_b0b4267_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/92667/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/92667/" rel="alternate"/>
+        <published>2010-02-12T20:26:55Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="39"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:90078</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Конкурс ГОРОД В СНЕГУ</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/90078/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/90078/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/90078/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/256696/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4114/aig1001.2d/0_3eab8_57223f5e_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/4114/aig1001.2d/0_3eab8_57223f5e_S" size="S"
+               width="97"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/90078/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/90078/" rel="alternate"/>
+        <published>2010-01-24T11:57:43Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="8"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:88437</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>..Я родом из детства...</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/88437/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/88437/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/88437/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/251780/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4107/aig1001.2c/0_3d784_293b2e3e_XXS" size="XXS"
+               width="75"/>
+        <f:img height="100" href="http://img-fotki.yandex.ru/get/4107/aig1001.2c/0_3d784_293b2e3e_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/88437/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/88437/" rel="alternate"/>
+        <published>2010-01-13T09:02:08Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="22"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96265/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:87269</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Неразобранное</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/87269/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/87269/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/87269/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/148276/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3306/aig1001.18/0_24334_36c42be8_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3306/aig1001.18/0_24334_36c42be8_S" size="S"
+               width="110"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/87269/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/87269/" rel="alternate"/>
+        <published>2010-01-03T09:26:21Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="39"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:85839</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Горожане</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/85839/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/85839/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/85839/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/242338/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4110/aig1001.2a/0_3b2a2_87e4547c_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/4110/aig1001.2a/0_3b2a2_87e4547c_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/85839/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/85839/" rel="alternate"/>
+        <published>2009-12-20T02:31:32Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="124"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:83987</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Зимний альбом</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/83987/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/83987/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/83987/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/246356/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4112/aig1001.2b/0_3c254_e36589c9_XXS" size="XXS"
+               width="75"/>
+        <f:img height="86" href="http://img-fotki.yandex.ru/get/4112/aig1001.2b/0_3c254_e36589c9_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/83987/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/83987/" rel="alternate"/>
+        <published>2009-12-02T19:50:31Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="16"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109967/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:78981</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>НОВОЧЕРКАССК. 14.10.2009г.</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/78981/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/78981/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/78981/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/226770/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3710/aig1001.27/0_375d2_a41d1f67_XXS" size="XXS"
+               width="75"/>
+        <f:img height="101" href="http://img-fotki.yandex.ru/get/3710/aig1001.27/0_375d2_a41d1f67_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/78981/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/78981/" rel="alternate"/>
+        <published>2009-10-15T23:11:56Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="34"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:77884</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>"Зарница" по взрослому...</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77884/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77884/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77884/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/224551/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3800/aig1001.26/0_36d27_b669aa73_XXS" size="XXS"
+               width="75"/>
+        <f:img height="109" href="http://img-fotki.yandex.ru/get/3800/aig1001.26/0_36d27_b669aa73_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77884/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/77884/" rel="alternate"/>
+        <published>2009-10-04T09:44:59Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="9"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96140/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:77554</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Купола России</title>
+        <summary>"...Купола в России кроют чистым золотом - Чтобы чаще Господь замечал... Душу, сбитую утратами да
+            тратами, Душу, стертую перекатами,- Если до крови лоскут истончал,- Залатаю золотыми я заплатами - Чтобы
+            чаще Господь замечал!" В.Высоцкий
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77554/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77554/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77554/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/222187/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3713/aig1001.26/0_363eb_270641fc_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3713/aig1001.26/0_363eb_270641fc_S" size="S"
+               width="101"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/77554/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/77554/" rel="alternate"/>
+        <published>2009-09-30T10:02:07Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="26"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:75585</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>ДОМИКИ ДЛЯ ПОЧТЫ</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/75585/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/75585/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/75585/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/215554/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3707/aig1001.25/0_34a02_d22833b_XXS" size="XXS"
+               width="75"/>
+        <f:img height="138" href="http://img-fotki.yandex.ru/get/3707/aig1001.25/0_34a02_d22833b_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/75585/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/75585/" rel="alternate"/>
+        <published>2009-09-09T20:07:37Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="13"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:74919</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Солдатская каша</title>
+        <summary>На празднике, в День освобождения Таганрога, ветеранов и всех желающих жителей города потчевали
+            настоящей солдатской пшённой кашей...
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/74919/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/74919/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/74919/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/212836/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3706/aig1001.24/0_33f64_ccff4a50_XXS" size="XXS"
+               width="75"/>
+        <f:img height="97" href="http://img-fotki.yandex.ru/get/3706/aig1001.24/0_33f64_ccff4a50_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/74919/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/74919/" rel="alternate"/>
+        <published>2009-09-01T19:34:10Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="23"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:73940</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Я к вам пишу...</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/73940/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/73940/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/73940/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/202433/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3610/aig1001.22/0_316c1_2b648189_XXS" size="XXS"
+               width="75"/>
+        <f:img height="119" href="http://img-fotki.yandex.ru/get/3610/aig1001.22/0_316c1_2b648189_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/73940/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/73940/" rel="alternate"/>
+        <published>2009-08-20T09:58:40Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="19"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:71951</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>"...Друзей моих прекрасные черты..."</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/71951/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/71951/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/71951/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/321919/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5403/aig1001.38/0_4e97f_94bdc64e_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/5403/aig1001.38/0_4e97f_94bdc64e_S" size="S"
+               width="100"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/71951/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/71951/" rel="alternate"/>
+        <published>2009-07-30T19:46:09Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="9"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:69471</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Танаис</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/69471/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/69471/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/69471/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/189851/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3501/aig1001.21/0_2e59b_f7435813_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/3501/aig1001.21/0_2e59b_f7435813_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/69471/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/69471/" rel="alternate"/>
+        <published>2009-06-28T15:42:48Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="15"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:69066</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Казачья уха, или один день станицы "Западная"</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/69066/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/69066/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/69066/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/187623/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3600/aig1001.20/0_2dce7_34acca40_XXS" size="XXS"
+               width="75"/>
+        <f:img height="101" href="http://img-fotki.yandex.ru/get/3600/aig1001.20/0_2dce7_34acca40_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/69066/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/69066/" rel="alternate"/>
+        <published>2009-06-16T18:23:05Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="52"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:68621</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Ах, лето!...</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68621/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68621/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68621/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/184831/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3605/aig1001.1f/0_2d1ff_92d05ef0_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3605/aig1001.1f/0_2d1ff_92d05ef0_S" size="S"
+               width="100"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68621/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/68621/" rel="alternate"/>
+        <published>2009-06-03T22:51:53Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="21"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96140/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:68620</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Пути-дороги</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68620/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68620/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68620/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/182574/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3500/aig1001.1f/0_2c92e_467c8602_-1-XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3500/aig1001.1f/0_2c92e_467c8602_-1-S" size="S"
+               width="109"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68620/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/68620/" rel="alternate"/>
+        <published>2009-06-03T22:34:09Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="7"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:68512</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Таганрог, город у моря</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68512/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68512/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68512/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/340290/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/4603/aig1001.3a/0_53142_9dbb9a3f_XXS" size="XXS"
+               width="75"/>
+        <f:img height="91" href="http://img-fotki.yandex.ru/get/4603/aig1001.3a/0_53142_9dbb9a3f_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68512/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/68512/" rel="alternate"/>
+        <published>2009-06-01T05:57:02Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="194"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:68102</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Соревнования юных пожарных</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68102/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68102/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68102/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/180962/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3605/aig1001.1f/0_2c2e2_7833b17a_XXS" size="XXS"
+               width="75"/>
+        <f:img height="100" href="http://img-fotki.yandex.ru/get/3605/aig1001.1f/0_2c2e2_7833b17a_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/68102/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/68102/" rel="alternate"/>
+        <published>2009-05-19T19:25:10Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="16"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96140/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:66414</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Прогулки при закате</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66414/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66414/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66414/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/171482/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3309/aig1001.1c/0_29dda_a7561bba_XXS" size="XXS"
+               width="75"/>
+        <f:img height="90" href="http://img-fotki.yandex.ru/get/3309/aig1001.1c/0_29dda_a7561bba_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66414/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/66414/" rel="alternate"/>
+        <published>2009-04-05T17:36:54Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="86"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/109967/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:66352</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Городские дворики</title>
+        <summary>Городские дворики - островки особенной жизни, отделенной от суматохи и беготни города. Эти укромные
+            местечки зачастую носят свой собственный и самый неожиданный характер.
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66352/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66352/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66352/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/170815/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3114/aig1001.1c/0_29b3f_b4ec55e8_XXS" size="XXS"
+               width="75"/>
+        <f:img height="101" href="http://img-fotki.yandex.ru/get/3114/aig1001.1c/0_29b3f_b4ec55e8_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66352/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/66352/" rel="alternate"/>
+        <published>2009-04-03T22:11:16Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="40"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:66028</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Чеховский Таганрог</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66028/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66028/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66028/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/169662/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3212/aig1001.1b/0_296be_e31d8ea5_XXS" size="XXS"
+               width="75"/>
+        <f:img height="101" href="http://img-fotki.yandex.ru/get/3212/aig1001.1b/0_296be_e31d8ea5_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/66028/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/66028/" rel="alternate"/>
+        <published>2009-03-26T19:01:32Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="59"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:65978</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Выставки</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/65978/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/65978/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/65978/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/239760/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3900/aig1001.2a/0_3a890_ee9b3356_XXS" size="XXS"
+               width="75"/>
+        <f:img height="103" href="http://img-fotki.yandex.ru/get/3900/aig1001.2a/0_3a890_ee9b3356_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/65978/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/65978/" rel="alternate"/>
+        <published>2009-03-24T19:44:26Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="21"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:64629</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Фонари</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/64629/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/64629/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/64629/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/166563/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3211/aig1001.1b/0_28aa3_474a5543_-1-XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3211/aig1001.1b/0_28aa3_474a5543_-1-S" size="S"
+               width="100"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/64629/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/64629/" rel="alternate"/>
+        <published>2009-02-14T00:17:16Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="7"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:58679</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>"В краю где Сороть голубая...." (Пушкинские Горы)</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/58679/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/58679/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/58679/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/105993/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/29/aig1001.f/0_19e09_e32b35c4_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/29/aig1001.f/0_19e09_e32b35c4_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/58679/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/58679/" rel="alternate"/>
+        <published>2008-10-12T20:22:33Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="45"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96141/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:57381</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Гимназия</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/57381/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/57381/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/57381/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/59381/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/16/aig1001.9/0_e7f5_9e1b7e09_XXS" size="XXS"
+               width="75"/>
+        <f:img height="109" href="http://img-fotki.yandex.ru/get/16/aig1001.9/0_e7f5_9e1b7e09_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/57381/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/57381/" rel="alternate"/>
+        <published>2008-10-04T16:27:37Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="89"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96140/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:55894</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Портрет</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/55894/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/55894/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/55894/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/32933/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/9/aig1001.0/0_80a5_5ea6dc4b_XXS" size="XXS" width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/9/aig1001.0/0_80a5_5ea6dc4b_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/55894/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/55894/" rel="alternate"/>
+        <published>2008-09-23T19:34:35Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="80"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:53445</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Крещение</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/53445/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/53445/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/53445/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/148224/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3101/aig1001.18/0_24300_20d1b130_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/3101/aig1001.18/0_24300_20d1b130_S" size="S"
+               width="104"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/53445/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/53445/" rel="alternate"/>
+        <published>2008-09-07T08:00:23Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="44"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:52405</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>III-й Всемирный конгресс казаков</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/52405/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/52405/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/52405/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/124721/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/2709/aig1001.12/0_1e731_b8c96d38_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/2709/aig1001.12/0_1e731_b8c96d38_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/52405/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/52405/" rel="alternate"/>
+        <published>2008-08-29T19:00:19Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="48"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:51910</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Часовня</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/51910/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/51910/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/51910/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/69189/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/19/aig1001.b/0_10e45_32b13ab5_-3-XXS" size="XXS"
+               width="75"/>
+        <f:img height="108" href="http://img-fotki.yandex.ru/get/19/aig1001.b/0_10e45_32b13ab5_-3-S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/51910/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/51910/" rel="alternate"/>
+        <published>2008-08-26T17:03:41Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="16"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:42126</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Казаки, Крым 2008г.</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/42126/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/42126/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/42126/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/85100/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/54/aig1001.e/0_14c6c_85c5f825_-2-XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/54/aig1001.e/0_14c6c_85c5f825_-2-S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/42126/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/42126/" rel="alternate"/>
+        <published>2008-06-16T17:03:50Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="61"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:40143</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Казаки ТКО ВКО ВВД</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/40143/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/40143/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/40143/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/33775/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/10/aig1001.0/0_83ef_29597562_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/10/aig1001.0/0_83ef_29597562_S" size="S" width="142"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/40143/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/40143/" rel="alternate"/>
+        <published>2008-06-02T05:43:08Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="85"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/94868/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:39366</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>День Победы</title>
+        <summary>"...И еще будем долго огни принимать за пожары мы, Будет долго зловещим казаться нам скрип сапогов, О
+            войну будут детские игры с названьями старыми, И людей будем долго делить на своих и врагов..." (В.
+            Высоцкий)
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/39366/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/39366/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/39366/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/68140/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/19/aig1001.b/0_10a2c_b096449d_-1-XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/19/aig1001.b/0_10a2c_b096449d_-1-S" size="S"
+               width="113"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/39366/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/39366/" rel="alternate"/>
+        <published>2008-05-26T22:43:34Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="98"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:37030</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Таганрог</title>
+        <summary>Многие объекты данного альбома можно посмотреть на подробной карте города:
+            http://www.esosedi.ru/onmap/park_im_gorkogo/103689/index.html или посмотреть снимки достопримечательностей с
+            высоты птичьего полета: http://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3 О
+            городе, названиях его микрорайонов, можно глянуть: http://www.proza.ru/2008/09/11/449 О нравах города можно
+            прочитать в статье из газеты "Комсомольская Правда" от 20 ноября 2002г. " Город, родом из палаты № 6"
+            http://www.flb.ru/infoprint/13788.html
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/37030/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/37030/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/37030/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/51423/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/15/aig1001.6/0_c8df_ef5771b6_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/15/aig1001.6/0_c8df_ef5771b6_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/37030/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/37030/" rel="alternate"/>
+        <published>2008-05-10T15:25:59Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="200"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96136/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:34652</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>В свободной охоте</title>
+        <summary>В этом альбоме размещаю серии фотографий, без особых претензий, результат вчерашней фотоохоты, просто
+            для друзей, жителей города Таганрога, такими,как их вижу я.
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/34652/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/34652/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/34652/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/62899/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/24/aig1001.9/0_f5b3_558d9ecc_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/24/aig1001.9/0_f5b3_558d9ecc_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/34652/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/34652/" rel="alternate"/>
+        <published>2008-04-21T07:22:04Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="151"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96137/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:33607</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Люди, человеки</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/33607/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/33607/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/33607/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/34122/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/10/aig1001.0/0_854a_4e98176e_-1-XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/10/aig1001.0/0_854a_4e98176e_-1-S" size="S"
+               width="137"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/33607/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/33607/" rel="alternate"/>
+        <published>2008-04-12T23:01:29Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="32"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:32149</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Цветы для друзей</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/32149/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/32149/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/32149/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/164335/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3210/aig1001.1b/0_281ef_439a6373_XXS" size="XXS"
+               width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/3210/aig1001.1b/0_281ef_439a6373_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/32149/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/32149/" rel="alternate"/>
+        <published>2008-04-01T15:23:48Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="45"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:28885</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Из дальних странствий возвратясь...</title>
+        <summary>Снимки в этом альбоме выполнены моим сыном http://fotki.yandex.ru/users/aig1001/view/32933 ,и
+            публикуются с его разрешения. Его снимки можно так же посмотреть на http://photofile.ru/users/n-gusakov/ и
+            http://ngusakov.livejournal.com/
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/28885/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/28885/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/28885/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/53052/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/16/aig1001.6/0_cf3c_d2f9904f_XXS" size="XXS"
+               width="75"/>
+        <f:img height="100" href="http://img-fotki.yandex.ru/get/16/aig1001.6/0_cf3c_d2f9904f_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/28885/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/28885/" rel="alternate"/>
+        <published>2008-03-07T19:04:54Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="47"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:22355</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Ваганьковское</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/22355/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/22355/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/22355/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/43358/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/9/aig1001.3/0_a95e_bfcd2d13_XXS" size="XXS" width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/9/aig1001.3/0_a95e_bfcd2d13_S" size="S" width="135"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/22355/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/22355/" rel="alternate"/>
+        <published>2008-01-13T00:15:14Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="22"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95930/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:21020</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Старые вещи</title>
+        <summary>" Былое нельзя воротить, и печалиться не о чем, у каждой эпохи свои подрастают леса... А все-таки жаль,
+            что нельзя с Александром Сергеичем поужинать в «Яр» заскочить хоть на четверть часа...." (Б,Окуджава)
+        </summary>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/21020/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/21020/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/21020/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/40116/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/13/aig1001.2/0_9cb4_3086972a_XXS" size="XXS"
+               width="75"/>
+        <f:img height="79" href="http://img-fotki.yandex.ru/get/13/aig1001.2/0_9cb4_3086972a_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/21020/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/21020/" rel="alternate"/>
+        <published>2007-12-30T16:00:33Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="34"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95929/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:20699</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Дети, или воспитание по д-ру Споку...</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/20699/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/20699/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/20699/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/60088/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/23/aig1001.9/0_eab8_6128a049_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/23/aig1001.9/0_eab8_6128a049_S" size="S" width="86"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/20699/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/20699/" rel="alternate"/>
+        <published>2007-12-27T00:03:31Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="21"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:19125</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Целинники</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/19125/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/19125/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/19125/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/37677/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/13/aig1001.1/0_932d_282d1ac4_XXS" size="XXS"
+               width="75"/>
+        <f:img height="103" href="http://img-fotki.yandex.ru/get/13/aig1001.1/0_932d_282d1ac4_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/19125/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/19125/" rel="alternate"/>
+        <published>2007-12-11T22:43:56Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="51"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96265/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:19094</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>...Как молоды мы были...</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/19094/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/19094/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/19094/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/144187/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/3006/aig1001.17/0_2333b_6edb8a69_XXS" size="XXS"
+               width="75"/>
+        <f:img height="100" href="http://img-fotki.yandex.ru/get/3006/aig1001.17/0_2333b_6edb8a69_S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/19094/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/19094/" rel="alternate"/>
+        <published>2007-12-11T17:51:02Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="90"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96265/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:17671</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>"... и остались годы эти в униброме, бромпортрете"</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/17671/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/17671/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/17671/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/34496/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/11/aig1001.0/0_86c0_cf5fa739_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/11/aig1001.0/0_86c0_cf5fa739_S" size="S" width="96"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/17671/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/17671/" rel="alternate"/>
+        <published>2007-11-29T00:02:42Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="63"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/96265/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:17238</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>По Москве</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/17238/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/17238/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/17238/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/34536/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/10/aig1001.0/0_86e8_66b250e3_-1-XXS" size="XXS"
+               width="75"/>
+        <f:img height="103" href="http://img-fotki.yandex.ru/get/10/aig1001.0/0_86e8_66b250e3_-1-S" size="S"
+               width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/17238/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/17238/" rel="alternate"/>
+        <published>2007-11-24T22:20:10Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="23"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95930/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:16800</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Участники конкурсов</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/16800/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/16800/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/16800/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/49616/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/20/aig1001.5/0_c1d0_4d13f5fa_XXS" size="XXS"
+               width="75"/>
+        <f:img height="150" href="http://img-fotki.yandex.ru/get/20/aig1001.5/0_c1d0_4d13f5fa_S" size="S" width="131"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/16800/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/16800/" rel="alternate"/>
+        <published>2007-11-20T22:47:14Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="16"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/95928/" rel="album"/>
+    </entry>
+    <entry>
+        <id>urn:yandex:fotki:aig1001:album:16341</id>
+        <author>
+            <name>aig1001</name>
+            <f:uid>28797441</f:uid>
+        </author>
+        <title>Природа</title>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/16341/" rel="self"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/16341/" rel="edit"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/16341/photos/" rel="photos"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/photo/33198/" rel="cover"/>
+        <f:img height="75" href="http://img-fotki.yandex.ru/get/5/aig1001.0/0_81ae_5380697_XXS" size="XXS" width="75"/>
+        <f:img height="113" href="http://img-fotki.yandex.ru/get/5/aig1001.0/0_81ae_5380697_S" size="S" width="150"/>
+        <link href="http://api-fotki.yandex.ru/api/users/aig1001/album/16341/photos.ymapsml/" rel="ymapsml"/>
+        <link href="http://fotki.yandex.ru/users/aig1001/album/16341/" rel="alternate"/>
+        <published>2007-11-16T19:22:11Z</published>
+        <app:edited>2013-03-18T22:11:19Z</app:edited>
+        <updated>2013-03-18T22:11:19Z</updated>
+        <f:protected value="false"/>
+        <f:image-count value="22"/>
+    </entry>
+</feed>

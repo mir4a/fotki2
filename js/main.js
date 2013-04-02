@@ -1,5 +1,7 @@
 var entries = [],
-    album_url = 'http://api-fotki.yandex.ru/api/users/aig1001/album/63684/photos/';
+    album_url = 'http://api-fotki.yandex.ru/api/users/miroslav-martynoff/album/127195/photos/';
+//    album_url = 'http://api-fotki.yandex.ru/api/users/miroslav-martynoff/album/127192/photos/';
+//    album_url = 'http://api-fotki.yandex.ru/api/users/aig1001/album/63684/photos/';
 
 function loadFeed(url) {
     var d = $.Deferred();
@@ -8,28 +10,28 @@ function loadFeed(url) {
     }, 'html');
 
     jqxhr
-        .fail(function(){
-        alert('Что пошло не так');
-    })
+        .fail(d.reject)
         .done(function(data){
             var xml = data,
                 json = $.xml2json(xml)
                 link = json.link,
                 $ent = json.entry,
-                img_count = json.image_count['value'];
+                img_count = json.image_count;
             alert(img_count);
             console.log(json);
             console.log(link);
+//            console.log(data.status);
 
             for (var i=0;i<$ent.length;i++) {
                 entries.push($ent[i]);
             }
 
 
-            if (img_count > 100) {
+
+            if (link.length === 3) {
                 var linkNext = link[2].href;
             } else {
-                var linkNext = null;
+                var linkNext = undefined;
             }
 
 
@@ -39,44 +41,30 @@ function loadFeed(url) {
     return d.promise();
 }
 
-var t = loadFeed(album_url).done(function(arg){
-    alert('Defff');
-    console.dir(entries);
-    console.log(arg);
-    loadFeed(arg);
-}).fail(function(){
-        alert('Fail');
-    });
+function loadStatus(url) {
+    return loadFeed(url)
+        .pipe(function(linkNext){
+            if (linkNext === undefined) {
+                return linkNext;
+            }
 
-//    .done(function(data){
-//    console.info('done');
-////    console.dir(data);
-//})
-//    $.when(jqxhr).then(function(data,textStatus,jqXHR){
-//        console.warn('done then');
-//        console.info(jqXHR.status);
-//        var xml = data,
-//            json = $.xml2json(xml)
-//            link = json.link,
-//            $ent = json.entry,
-//            img_count = json.image_count['value'];
-//
-//        if (link[2]) {
-//            var next = link[2]['href'];
-//            alert(link[2]['rel']);
-//        } else {
-//            alert(link[1]['rel']);
-//        }
-//
-//        alert(img_count);
-//        console.log(json);
-//        console.log(link);
-//        initGallery($ent);
+            return loadStatus(linkNext);
+        });
+
+}
+
+
+
+$.when(loadStatus(album_url)).done(function(){
+    console.log('%%%%%%%%%%');
+    console.dir(entries);
+});
+
+//var t = loadFeed(album_url).done(function(arg){
+//    alert('Defff');
+//    console.dir(entries);
+//    console.log(arg);
+//    loadFeed(arg.href);
+//}).fail(function(){
+//        alert('Fail');
 //    });
-//
-//function initGallery(items) {
-//
-//    for (var i=0; i<items.length; i++) {
-//        console.dir(items[i].img);
-//    }
-//}

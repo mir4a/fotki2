@@ -45,6 +45,8 @@ function checkUrl() {
                 alert('wrong!!! app id!');
                 alert(gen_url);
                 _start = 0;
+                var newLoc = docLocPr + '//' + docLocHs + docLocP + '#' + appid + ':' + author + ':' + album + ':' + 0;
+                document.location = newLoc;
             }
 
             alert('start='+_start);
@@ -118,12 +120,20 @@ function slider(items, step, start) {
     step = step || 10;
     start = start || 0;
 
+    var imgWrap = $('.b-slider_wrap'),
+        imgHtml = '',
+        tmbWrap = $('.b-slider_thumb'),
+        tmbHtml = '',
+        navWrap = $('.b-slider_nav'),
+        navTrigger = navWrap.find('.i-trigger');
+
     for (var i=0;i<step;i++) {
         var curI = parseInt(start + i);
         if (curI < items.length) {
             console.warn('iterator == ' + i + '; current image index (items length =' + items.length + ') == ' + curI);
             console.warn('number of images: ' + items[curI].img.length);
             var img = items[curI].img,
+                title = items[curI].title,
                 xxxs = img[4].href,
                 xxs = img[0].href,
                 xs = img[6].href,
@@ -142,6 +152,20 @@ function slider(items, step, start) {
             console.log('length of items='+items.length);
             console.error('curI='+curI);
             console.log('step='+i);
+
+            imgHtml += '' +
+                '<div class="b-slider_slide">' +
+                '   <img src="'+l+'" alt="'+title+'">' +
+                '</div>';
+
+            tmbHtml += '' +
+                '<a href="#'+curI+'" data-slide="'+curI+'" title="'+title+'">' +
+                '   <img src="'+xs+'" alt="'+title+'" >' +
+                '</a>';
+
         }
     }
+
+    imgWrap.append(imgHtml);
+    tmbWrap.append(tmbHtml);
 }

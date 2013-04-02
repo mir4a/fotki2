@@ -6,29 +6,52 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
+        <title>Slider</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet/less" type="text/css" href="css/style.less" media="all">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-    </head>
-    <body>
-        <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
-        <![endif]-->
-
-        <!-- Add your site or application content here -->
-        <p>Hello world! This is HTML5 Boilerplate.</p>
-
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
         <!--<script src="js/plugins.js?v=2"></script>-->
+        <script type="text/javascript" src="js/less-1.3.3.min.js"></script>
+        <script type="text/javascript">
+            less = {
+                env: "development", // or "production"
+                async: false,       // load imports async
+                fileAsync: false,   // load imports async when in a page under
+                // a file protocol
+                poll: 1000,         // when in watch mode, time in ms between polls
+                functions: {},      // user functions, keyed by name
+                dumpLineNumbers: "comments", // or "mediaQuery" or "all"
+                relativeUrls: true// whether to adjust url's to be relative
+            };
+        </script>
+
         <script src="http://jquery-xml2json-plugin.googlecode.com/svn/trunk/jquery.xml2json.js"></script>
         <script src="js/main.js"></script>
+    </head>
+    <body>
+
+    <div class="b-slider">
+        <div class="b-slider_wrap">
+
+        </div>
+
+        <div class="b-slider_nav">
+            <a class="b-left" href="#left">left</a>
+            <a class="b-right" href="#right">right</a>
+        </div>
+
+
+        <div class="b-slider_thumb">
+
+        </div>
+    </div>
+
 
 
 

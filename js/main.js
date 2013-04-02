@@ -1,4 +1,6 @@
 var entries = [],
+    author = 'aig1001',
+    album = '63684',
     album_url = 'http://api-fotki.yandex.ru/api/users/miroslav-martynoff/album/127195/photos/';
 //    album_url = 'http://api-fotki.yandex.ru/api/users/miroslav-martynoff/album/127192/photos/';
 //    album_url = 'http://api-fotki.yandex.ru/api/users/aig1001/album/63684/photos/';
@@ -57,14 +59,34 @@ function loadStatus(url) {
 
 $.when(loadStatus(album_url)).done(function(){
     console.log('%%%%%%%%%%');
-    console.dir(entries);
+//    console.dir(entries);
+    slider(entries);
 });
 
-//var t = loadFeed(album_url).done(function(arg){
-//    alert('Defff');
-//    console.dir(entries);
-//    console.log(arg);
-//    loadFeed(arg.href);
-//}).fail(function(){
-//        alert('Fail');
-//    });
+function slider(items, step) {
+    step = step || 10;
+    var docLoc = document.location;
+    var docLocPr = document.location['protocol'];
+    var docLocHs = document.location['host'];
+    var docLocP = document.location['pathname'];
+    var newLoc = docLocPr + '//' + docLocHs + docLocP + '#author=' + author + '&album=' + album + '&slide=' + '0';
+    document.location = newLoc;
+
+//    history.pushState(newLoc);
+//    while (step)
+
+    for (var i=0;i<step;i++) {
+
+        if (i < items.length) {
+            var img = items[i].img,
+                xl = img[3].href;
+
+            console.log('фотки размера xl: '+xl);
+        }
+
+        console.log('step='+i);
+
+
+    }
+    console.dir(docLoc);
+}

@@ -1,5 +1,9 @@
 var entries = [],
     doc = $(document),
+    docLoc = document.location,
+    docLocPr = docLoc['protocol'],
+    docLocHs = docLoc['host'],
+    docLocP = docLoc['pathname'],
     overlay = $('.b-overlay'),
     step,
     author = 'aig1001',
@@ -24,11 +28,7 @@ function parseHash(hash) {
 }
 
 function checkUrl() {
-    var docLoc = document.location,
-        docLocPr = docLoc['protocol'],
-        docLocHs = docLoc['host'],
-        docLocP = docLoc['pathname'],
-        docLocHash = docLoc['hash'];
+    var docLocHash = docLoc['hash'];
 
     parseHash(docLocHash)
         .done(function(ar){
@@ -41,17 +41,17 @@ function checkUrl() {
                 gen_url = album_url;
 
             if (_appid === appid) {
-                alert('app id correct!');
+                console.info('app id correct!');
                 gen_url = api_url + _author + '/album/' + _album + '/photos/';
             } else {
-                alert('wrong!!! app id!');
-                alert(gen_url);
+                console.error('wrong!!! app id!');
+                console.info(gen_url);
                 _start = 0;
                 var newLoc = docLocPr + '//' + docLocHs + docLocP + '#' + appid + ':' + author + ':' + album + ':' + 0;
-                document.location = newLoc;
+                docLoc = newLoc;
             }
 
-            alert('start='+_start);
+            console.info('start='+_start);
 
             $.when(loadStatus(gen_url)).done(function(){
                 console.log('%%%%%%%%%%');
@@ -60,7 +60,7 @@ function checkUrl() {
             });
         })
         .fail(function(){
-            alert('hash a little');
+            console.warn('no hash - start from beginning');
             var newLoc = docLocPr + '//' + docLocHs + docLocP + '#' + appid + ':' + author + ':' + album + ':' + 0;
             document.location = newLoc;
 
@@ -88,8 +88,8 @@ function loadFeed(url) {
                 link = json.link,
                 $ent = json.entry,
                 img_count = json.image_count;
-            console.log(json);
-            console.log(link);
+//            console.log(json);
+//            console.log(link);
 
             for (var i=0;i<$ent.length;i++) {
                 entries.push($ent[i]);
@@ -159,47 +159,67 @@ function slider(items, step, start) {
         step2 = step + i;
     }
 
-    for (i;i<step2;i++) {
-        var curI = parseInt(start + i);
-        if (curI < items.length) {
-            console.warn('iterator == ' + i + '; current image index (items length =' + items.length + ') == ' + curI);
-            console.warn('number of images: ' + items[curI].img.length);
-            var img = items[curI].img,
-                title = items[curI].title,
-                xxxs = img[4].href,
-                xxs = img[0].href,
-                xs = img[6].href,
-                s = img[5].href,
-                m = img[2].href,
-                l = img[3].href,
-                xl = img[1].href;
-            console.log('фотки размера xxxs: '+xxxs);
-            console.log('фотки размера xxs: '+xxs);
-            console.log('фотки размера xs: '+xs);
-            console.log('фотки размера s: '+s);
-            console.log('фотки размера m: '+m);
-            console.log('фотки размера l: '+l);
-            console.log('фотки размера xl: '+xl);
-//            console.log('фотки размера xxs: '+xxs);
-            console.log('length of items='+items.length);
-            console.error('curI='+curI);
-            console.log('step='+i);
+    function addEl(id, imgs, tmbs, type) {
+            type = type || 'append';
+            imgs = imgs || imgHtml;
+            tmbs = tmbs || tmbHtml;
+        var img = items[id].img,
+            title = items[id].title,
+            xxxs = img[4].href,
+            xxs = img[0].href,
+            xs = img[6].href,
+            s = img[5].href,
+            m = img[2].href,
+            l = img[3].href,
+            xl = img[1].href;
+//        console.log('фотки размера xxxs: '+xxxs);
+//        console.log('фотки размера xxs: '+xxs);
+//        console.log('фотки размера xs: '+xs);
+//        console.log('фотки размера s: '+s);
+//        console.log('фотки размера m: '+m);
+//        console.log('фотки размера l: '+l);
+//        console.log('фотки размера xl: '+xl);
+        console.log('length of items='+items.length);
+        console.error('curI='+id);
+        console.log('step='+i);
 
-            imgHtml += '' +
-                '<div class="b-slider_slide" data-slide="'+curI+'">' +
-                '   <img src="'+l+'" alt="'+title+'">' +
-                '</div>';
+        imgs += '' +
+            '<div class="b-slider_slide" data-slide="'+id+'">' +
+            '   <img src="'+l+'" alt="'+title+'">' +
+            '</div>';
 
-            tmbHtml += '' +
-                '<a href="#'+curI+'" data-slide="'+curI+'" title="'+title+'">' +
-                '   <img src="'+xs+'" alt="'+title+'" >' +
-                '</a>';
+        tmbs += '' +
+            '<a href="#'+id+'" data-slide="'+id+'" title="'+title+'">' +
+            '   <img src="'+xs+'" alt="'+title+'" >' +
+            '</a>';
 
+        if (type === 'append') {
+            imgWrap.append(imgs);
+            tmbWrap.append(tmbs);
+        } else if (type === 'prepend') {
+            imgWrap.prepend(imgs);
+            tmbWrap.prepend(tmbs);
         }
+
     }
 
-    imgWrap.append(imgHtml);
-    tmbWrap.append(tmbHtml);
+    function loadMore(step,id) {
+        id = id || start;
+        for (i;i<step2;i++) {
+            var curI = parseInt(id + i);
+            if (curI < items.length) {
+//                console.warn('iterator == ' + i + '; current image index (items length =' + items.length + ') == ' + curI);
+//                console.warn('number of images: ' + items[curI].img.length);
+                addEl(curI, imgHtml, tmbHtml);
+
+            }
+        }
+
+    }
+
+    loadMore(step2);
+
+
 
     if (start > 0) {
         imgWrap.find('.b-slider_slide[data-slide="'+start+'"]').addClass('active').siblings().removeClass('active');
@@ -208,6 +228,30 @@ function slider(items, step, start) {
         imgWrap.find('.b-slider_slide:first-child').addClass('active').siblings().removeClass('active');
         tmbWrap.find('a:first-child').addClass('active').siblings().removeClass('active');
     }
+
+    tmbWrap.on('click','a[data-slide]', function(e) {
+        e.preventDefault();
+        console.dir(e);
+        var _this = $(this),
+            parent = _this.parent(),
+            parentW = parent.outerWidth(),
+            posX = e.currentTarget['offsetLeft'],
+            clientW = e.delegateTarget['clientWidth'],
+            tmbW = e.currentTarget['clientWidth'],
+            to_left = posX - clientW/2 + tmbW/2,
+            dataImg = _this.attr('data-slide');
+
+        parent.css('margin-left', '-' + to_left + 'px');
+
+        console.info('ширина родителя: ' + parentW);
+        console.info('Отступ ребенка: ' + posX);
+        console.info('на сколько отступать: ' + to_left);
+
+        var clcLoc = docLocPr + '//' + docLocHs + docLocP + '#' + appid + ':' + author + ':' + album + ':' + dataImg;
+
+        document.location = clcLoc;
+        $('[data-slide="'+dataImg+'"]').addClass('active').siblings().removeClass('active');
+    });
 
     doc.bind('mousemove', function(e){
         var _this = $(this),
@@ -221,9 +265,6 @@ function slider(items, step, start) {
         } else {
             tmbWrap.parent().removeClass('active');
         }
-//        console.dir(e);
-//        console.log(docW + ' clientX = ' + e.clientX );
-//        console.log(docH + ' clientY = ' + e.clientY );
     });
     doc.bind('mouseleave', function(e) {
         setTimeout(function(){
@@ -245,20 +286,59 @@ function slider(items, step, start) {
             actImg = imgWrap.find('.active'),
             actImgIndex = actImg.attr('data-slide'),
             ind = parseInt(actImgIndex);
+        console.warn('ind = ' + ind);
+        var indForLoc = ind + 1;
+
+
 
         if (way === 'left') {
-            if (ind === 0) {
+            if (ind < 1) {
                 alert('first');
             } else {
-                actImg.addClass('left');
+                var neighbor = $('[data-slide="'+(ind - 1)+'"]');
+                console.log('есть кто рядом слева?');
+                console.dir(neighbor);
+                if (neighbor.length <= 0) {
+                } else {
+                    indForLoc = ind -1;
+                    console.log(neighbor.prev().length == 0);
+                    if (neighbor.prev().length === 0) {
+                        addEl((ind - 2), '','','prepend');
+                    }
+                    console.log(neighbor.prev());
+                    console.log('сосед слева есть ---------');
+                }
+                actImg.addClass('left').siblings().removeClass('left');;
+                neighbor.addClass('active').siblings().removeClass('active');
             }
         } else if (way === 'right') {
-            if (ind === items.length - 1) {
+            if (ind === items.length) {
                 alert('last');
             } else {
-                actImg.addClass('right');
+                var neighbor = $('[data-slide="'+(ind +1)+'"]');
+                console.log('есть кто рядом справа?');
+                console.dir(neighbor);
+
+                if (neighbor.length <= 0) {
+
+
+                } else {
+                    indForLoc = ind + 1;
+                    console.log(neighbor.next().length == 0);
+                    if (neighbor.next().length === 0) {
+                        addEl((ind + 2), '','');
+                    }
+                    console.log('сосед справа есть ++++++++');
+
+                }
+//                loadMore(halfStep,(ind+1));
+                actImg.addClass('right').siblings().removeClass('right');;
+                neighbor.addClass('active').siblings().removeClass('active');
             }
         }
+        var clcLoc = docLocPr + '//' + docLocHs + docLocP + '#' + appid + ':' + author + ':' + album + ':' + indForLoc;
+
+        document.location = clcLoc;
 
     });
 }

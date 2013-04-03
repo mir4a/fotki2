@@ -1,3 +1,126 @@
-undefined_methodError: Object #<Object> has no method 'toCSS' in /Users/mir4a/projects/fotki2/css/style.less:null:-1
-1 // fff\
-
+body {
+  background: #000000;
+}
+.b-slider {
+  height: 100%;
+  position: relative;
+}
+.b-slider_wrap {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+.b-slider_wrap .b-slider_slide {
+  display: none;
+  text-align: center;
+  width: 100%;
+  position: relative;
+}
+.b-slider_wrap .b-slider_slide.active {
+  display: block;
+}
+.b-slider_wrap .b-slider_slide > img {
+  height: 100%;
+  width: auto;
+}
+.b-thumbs_wrap {
+  position: fixed;
+  width: 100%;
+  height: 120px;
+  left: 0;
+  bottom: -120px;
+  background: rgba(0, 0, 0, 0.75);
+}
+.b-thumbs_wrap.active {
+  bottom: 0;
+}
+.b-slider_thumb {
+  position: relative;
+  width: auto;
+  height: 100%;
+  white-space: nowrap;
+}
+.b-slider_thumb > a {
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  border: 5px solid transparent;
+  overflow: hidden;
+}
+.b-slider_thumb > a > img {
+  height: 100%;
+  width: auto;
+}
+.b-slider_thumb > a:hover,
+.b-slider_thumb > a.active {
+  border-color: #ffffff;
+}
+.b-slider_nav {
+  position: absolute;
+  display: none;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+.b-slider_nav > a {
+  color: #000000;
+  font: 50px/120% "Apple Symbols", "Menlo", sans-serif;
+  text-decoration: none;
+  text-align: center;
+  vertical-align: text-bottom;
+  display: block;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 50%;
+  margin-top: -25px;
+  border-radius: 26px;
+  background: rgba(255, 255, 255, 0.75);
+}
+.b-slider_nav > a:hover {
+  background: #ffffff;
+}
+.b-slider_nav > .b-left {
+  left: 50px;
+}
+.b-slider_nav > .b-right {
+  right: 50px;
+}
+.b-overlay {
+  background: #ffffff;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.b-overlay > .b-loader_wrap {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  top: 50%;
+  margin: -50px auto 0;
+}
+.b-overlay > .b-loader_wrap > .b-loader {
+  width: 97px;
+  height: 97px;
+  background: #ffffff;
+  border: 3px dashed #00ff00;
+  border-radius: 51px;
+}
+.b-overlay > .b-loader_wrap > .b-text {
+  font: italic 12px/100px "Helvetica Neue", "HelveticaNeue", sans-serif;
+  color: #000000;
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  text-align: center;
+  vertical-align: middle;
+}

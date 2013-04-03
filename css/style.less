@@ -1,9 +1,6 @@
-//
-// fff
-
 @black: #000000;
-@white: #ffffff;
 @green: #00ff00;
+@white: #ffffff;
 
 @thumb_width: 100px;
 
@@ -49,11 +46,12 @@ body {
 }
 
 .b-slider_thumb {
-  position: absolute;
-  left: 0;
-//  width: 100%;
+  position: relative;
+//  left: 0;
+  width: auto;
   height: 100%;
-  bottom: 0;
+//  bottom: 0;
+  white-space: nowrap;
   &>a {
     &>img {
       height: 100%;
@@ -119,7 +117,7 @@ body {
     width: @thumb_width;
     height: @thumb_width;
     top: 50%;
-    margin: (@thumb_width/2) auto 0;
+    margin: -(@thumb_width/2) auto 0;
     &>.b-loader {
       width: @thumb_width - 3;
       height: @thumb_width - 3;
@@ -128,7 +126,7 @@ body {
       border-radius: (@thumb_width/2) + 1;
     }
     &>.b-text {
-      font: italic 12px/@thumb_width "Helvetica Neue", "HelveticaNeue", sans-serif;
+      font: italic 12px/100px "Helvetica Neue", "HelveticaNeue", sans-serif;
       color: @black;
       position: absolute;
       display: block;
@@ -137,7 +135,6 @@ body {
       top: 0;
       left: 0;
       text-align: center;
-      line-height: @thumb_width + 20;
       vertical-align: middle;
     }
   }

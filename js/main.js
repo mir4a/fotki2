@@ -1,4 +1,6 @@
 var entries = [],
+    doc = $(document),
+    overlay = $('.b-overlay'),
     step,
     author = 'aig1001',
     album = '63684',
@@ -54,6 +56,7 @@ function checkUrl() {
             $.when(loadStatus(gen_url)).done(function(){
                 console.log('%%%%%%%%%%');
                 slider(entries, step, _start);
+                overlay.fadeOut(500);
             });
         })
         .fail(function(){
@@ -64,6 +67,7 @@ function checkUrl() {
             $.when(loadStatus(album_url)).done(function(){
                 console.log('%%%%%%%%%%');
                 slider(entries, step, 0);
+                overlay.fadeOut(500);
             });
         });
 }
@@ -125,9 +129,37 @@ function slider(items, step, start) {
         tmbWrap = $('.b-slider_thumb'),
         tmbHtml = '',
         navWrap = $('.b-slider_nav'),
-        navTrigger = navWrap.find('.i-trigger');
+        navTrigger = navWrap.find('.i-trigger'),
+        halfStep = step/2,
+        step2 = step,
+        lastStep = items.length - halfStep,
+        i = 0;
 
-    for (var i=0;i<step;i++) {
+    if (start > 0 && start < lastStep) {
+        switch (start) {
+            case 1:
+                i = -1;
+                break;
+            case 2:
+                i = -2;
+                break;
+            case 3:
+                i = -3;
+                break;
+            case 4:
+                i = -4;
+                break;
+            case 5:
+                i = -(halfStep);
+                break;
+            default :
+                i = -(halfStep);
+        }
+
+        step2 = step + i;
+    }
+
+    for (i;i<step2;i++) {
         var curI = parseInt(start + i);
         if (curI < items.length) {
             console.warn('iterator == ' + i + '; current image index (items length =' + items.length + ') == ' + curI);
@@ -154,7 +186,7 @@ function slider(items, step, start) {
             console.log('step='+i);
 
             imgHtml += '' +
-                '<div class="b-slider_slide">' +
+                '<div class="b-slider_slide" data-slide="'+curI+'">' +
                 '   <img src="'+l+'" alt="'+title+'">' +
                 '</div>';
 
@@ -168,4 +200,65 @@ function slider(items, step, start) {
 
     imgWrap.append(imgHtml);
     tmbWrap.append(tmbHtml);
+
+    if (start > 0) {
+        imgWrap.find('.b-slider_slide[data-slide="'+start+'"]').addClass('active').siblings().removeClass('active');
+        tmbWrap.find('[data-slide="'+start+'"]').addClass('active').siblings().removeClass('active');
+    } else {
+        imgWrap.find('.b-slider_slide:first-child').addClass('active').siblings().removeClass('active');
+        tmbWrap.find('a:first-child').addClass('active').siblings().removeClass('active');
+    }
+
+    doc.bind('mousemove', function(e){
+        var _this = $(this),
+            docW = _this.innerWidth(),
+            docH = _this.innerHeight(),
+            ex = e.clientX,
+            ey = e.clientY;
+
+        if (ey > (docH - 150)) {
+            tmbWrap.parent().addClass('active');
+        } else {
+            tmbWrap.parent().removeClass('active');
+        }
+//        console.dir(e);
+//        console.log(docW + ' clientX = ' + e.clientX );
+//        console.log(docH + ' clientY = ' + e.clientY );
+    });
+    doc.bind('mouseleave', function(e) {
+        setTimeout(function(){
+            navWrap.fadeOut(200);
+        }, 500);
+    });
+
+    doc.bind('mouseenter', function(e){
+        setTimeout(function(){
+            navWrap.fadeIn(250);
+        }, 100);
+    });
+
+    navTrigger.bind('click', function(e){
+        e.preventDefault();
+        var _this = $(this),
+            hsh = _this.attr('href'),
+            way = hsh.slice(1),
+            actImg = imgWrap.find('.active'),
+            actImgIndex = actImg.attr('data-slide'),
+            ind = parseInt(actImgIndex);
+
+        if (way === 'left') {
+            if (ind === 0) {
+                alert('first');
+            } else {
+                actImg.addClass('left');
+            }
+        } else if (way === 'right') {
+            if (ind === items.length - 1) {
+                alert('last');
+            } else {
+                actImg.addClass('right');
+            }
+        }
+
+    });
 }

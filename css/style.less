@@ -1,7 +1,144 @@
-@import "normalize.css";
+//
+// fff
 
-@black: #000;
+@black: #000000;
+@white: #ffffff;
+@green: #00ff00;
+
+@thumb_width: 100px;
 
 body {
   background: @black;
+}
+
+.b-slider {
+  height: 100%;
+  position: relative;
+}
+
+.b-slider_wrap {
+  & .b-slider_slide {
+    &.active {
+      display: block;
+    }
+    &>img {
+      height: 100%;
+      width: auto;
+    }
+    display: none;
+    text-align: center;
+//    height: 100%;
+    width: 100%;
+    position: relative;
+  }
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.b-thumbs_wrap {
+  &.active {
+    bottom: 0;
+  }
+  position: fixed;
+  width: 100%;
+  height: 100px + (5 * 4);
+  left: 0;
+  bottom: -120px;
+  background: fade(@black, 75%);
+}
+
+.b-slider_thumb {
+  position: absolute;
+  left: 0;
+//  width: 100%;
+  height: 100%;
+  bottom: 0;
+  &>a {
+    &>img {
+      height: 100%;
+      width: auto;
+    }
+    &:hover,
+    &.active {
+      border-color: @white;
+    }
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    width: @thumb_width;
+    height: @thumb_width;
+    margin: 5px;
+    border: 5px solid transparent;
+    overflow: hidden;
+  }
+}
+
+.b-slider_nav {
+  position: absolute;
+  display: none;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  &>a {
+    &:hover {
+      background: @white;
+    }
+    color: @black;
+    font: 50px/120% "Apple Symbols", "Menlo", sans-serif;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: text-bottom;
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    margin-top: -50px / 2;
+    border-radius: 26px;
+    background: fade(@white,75%);
+  }
+  &>.b-left {
+    left: 50px;
+  }
+  &>.b-right {
+    right: 50px;
+  }
+}
+
+.b-overlay {
+  background: @white;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  &>.b-loader_wrap {
+    position: relative;
+    width: @thumb_width;
+    height: @thumb_width;
+    top: 50%;
+    margin: (@thumb_width/2) auto 0;
+    &>.b-loader {
+      width: @thumb_width - 3;
+      height: @thumb_width - 3;
+      background: @white;
+      border: 3px dashed @green;
+      border-radius: (@thumb_width/2) + 1;
+    }
+    &>.b-text {
+      font: italic 12px/@thumb_width "Helvetica Neue", "HelveticaNeue", sans-serif;
+      color: @black;
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      text-align: center;
+      line-height: @thumb_width + 20;
+      vertical-align: middle;
+    }
+  }
 }
